@@ -1,0 +1,19 @@
+DataModel,Source,Granularity
+Day-ahead Demand,BMRS,Half Hour
+Day-ahead Interconnector Flow,ENTSO-E,Hourly
+Frequency,National Grid,Second
+Monthly BSUoS,National Grid,Monthly
+TNUoS charges,National Grid,Annual
+TNUoS Tarrif Model,Internal,Annual
+Retail Tariff Model,Internal,Annual
+Day-ahead Dashboard,Internal,Half Hour
+FFR Model,Internal,Seasonal
+Profile Class,Elexon,Half Hour
+Daily Demand Model,Internal,Hourly
+Annual Demand Model,Internal,Annual
+GDP Historic,Eurostats,Seasonal
+Total Transmission Demand,BMRS,Half Hour
+GDP Forecast,ONS,Quarterly
+Power Price Model,Internal,Hourly
+Total Installed Capacity,Internal,Annual
+FES Total Capacity,National Grid,Annual

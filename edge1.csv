@@ -1,0 +1,16 @@
+TransactionAmt,Source,Target,Earliest Date
+365,Day-ahead Demand,Day-ahead Dashboard,1/1/2018
+365,Day-ahead Interconnector Flow,Day-ahead Dashboard,5/6/2017
+100,Frequency,FFR Model,10/3/2018
+100,Monthly BSUoS,Retail Tariff Model,12/4/2018
+100,TNUoS charges,TNUoS Tarrif Model,8/4/2015
+200,Profile Class,Daily Demand Model,01/01/2019
+200,Total Transmission Demand,Daily Demand Model,01/01/2019
+200,Annual Demand Model,Daily Demand Model,01/01/2019
+200,Daily Demand Model,Power Price Model,01/01/2019
+200,GDP Historic,Annual Demand Model,01/01/2020
+200,GDP Forecast,Annual Demand Model,01/01/2020
+200,Daily Demand Model,Power Price Model,01/01/2019
+200,Power Price Model,Total Installed Capacity,01/01/2019
+200,Total Installed Capacity,TNUoS Tarrif Model,01/01/2021
+200,FES Total Capacity,TNUoS Tarrif Model,01/01/2021
